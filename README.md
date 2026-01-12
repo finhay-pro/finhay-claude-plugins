@@ -196,7 +196,7 @@ For detailed documentation, see [Claude Code Plugins Documentation](https://docs
 
 For questions or issues:
 - Create an issue in this repository
-- Contact the Tech team on Slack
+- Contact the Tech team on Google Chat
 
 ## License
 
