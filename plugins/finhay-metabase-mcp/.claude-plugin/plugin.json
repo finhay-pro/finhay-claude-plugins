@@ -1,0 +1,14 @@
+{
+  "name": "finhay-metabase-mcp",
+  "description": "Metabase MCP server with Finhay default configuration for querying and analyzing data from mb.vnsc.vn",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tuan Tran",
+    "email": "tuan.tran@finhay.com.vn"
+  },
+  "keywords": ["metabase", "mcp", "data", "analytics", "sql", "reporting"],
+  "commands": ["./commands"],
+  "mcp": "./mcp.json",
+  "homepage": "https://mb.vnsc.vn",
+  "license": "UNLICENSED"
+}

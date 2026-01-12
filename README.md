@@ -7,6 +7,7 @@ Official plugin marketplace for Finhay's internal Claude Code extensions. This r
 | Plugin | Description | Command |
 |--------|-------------|---------|
 | `finhay-brand-guidelines` | Finhay brand identity system including colors, typography, logos, voice, and design guidelines | `/brand-guidelines` |
+| `finhay-metabase-mcp` | Metabase MCP server with Finhay default configuration for querying data from mb.vnsc.vn | `/metabase-setup` |
 
 ## Installation
 

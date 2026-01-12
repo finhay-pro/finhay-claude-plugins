@@ -1,0 +1,14 @@
+{
+  "metabase": {
+    "command": "npx",
+    "args": ["-y", "@jerichosequitin/metabase-mcp"],
+    "env": {
+      "METABASE_URL": "https://mb.vnsc.vn",
+      "METABASE_READ_ONLY_MODE": "true",
+      "EXPORT_DIRECTORY": "~/Documents/finhay-metabase-mcp",
+      "LOG_LEVEL": "info",
+      "CACHE_TTL_MS": "600000",
+      "REQUEST_TIMEOUT_MS": "600000"
+    }
+  }
+}
