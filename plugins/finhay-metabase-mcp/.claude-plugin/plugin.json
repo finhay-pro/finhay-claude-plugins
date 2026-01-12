@@ -8,7 +8,6 @@
   },
   "keywords": ["metabase", "mcp", "data", "analytics", "sql", "reporting"],
   "commands": ["./commands"],
-  "mcp": "./mcp.json",
   "homepage": "https://mb.vnsc.vn",
   "license": "UNLICENSED"
 }
