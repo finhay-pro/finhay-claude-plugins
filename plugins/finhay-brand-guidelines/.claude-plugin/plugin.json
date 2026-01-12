@@ -1,0 +1,13 @@
+{
+  "name": "finhay-brand-guidelines",
+  "description": "Applies Finhay Vietnam's official brand identity, colors, typography, logo, voice, and design system to any artifact. Includes dual color systems (App/Web UI + Marketing), Vietnamese content guidelines, logo usage rules, brand voice & personality, and key graphics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Finhay Team",
+    "email": "tech@finhay.com.vn"
+  },
+  "keywords": ["brand", "design", "ui", "marketing", "finhay", "vietnam", "fintech"],
+  "commands": ["./commands"],
+  "homepage": "https://finhay.com.vn",
+  "license": "UNLICENSED"
+}

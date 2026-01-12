@@ -1,0 +1,25 @@
+{
+  "name": "finhay-plugins",
+  "owner": {
+    "name": "Finhay Team",
+    "email": "tech@finhay.com.vn"
+  },
+  "metadata": {
+    "description": "Official Finhay plugin marketplace for internal team distribution",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "finhay-brand-guidelines",
+      "source": "./plugins/finhay-brand-guidelines",
+      "description": "Applies Finhay Vietnam's official brand identity, colors, typography, logo, voice, and design system to any artifact",
+      "version": "1.0.0",
+      "author": {
+        "name": "Finhay Team"
+      },
+      "keywords": ["brand", "design", "ui", "marketing", "finhay"],
+      "category": "design"
+    }
+  ]
+}
