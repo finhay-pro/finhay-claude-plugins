@@ -31,6 +31,17 @@
       },
       "keywords": ["metabase", "mcp", "data", "analytics", "sql", "reporting"],
       "category": "data"
+    },
+    {
+      "name": "document-legacy-service",
+      "source": "./plugins/document-legacy-service",
+      "description": "Reverse-engineer business logic from a running service's source code, database, and existing docs — then produce structured documentation with explicit confidence levels",
+      "version": "1.1.0",
+      "author": {
+        "name": "Tuan Tran"
+      },
+      "keywords": ["documentation", "legacy", "reverse-engineering", "product-card", "confluence", "metabase"],
+      "category": "documentation"
     }
   ]
 }
